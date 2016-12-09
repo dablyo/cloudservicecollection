@@ -1,6 +1,9 @@
 # cloudservicecollection
 云服务类型收集
 
+青云qingcloud  IaaS，正在发布大数据相关的PaaS或者说行业相关的中间件自动编排
+
+
 云英  iaas/paas
 www.cloudin.cn/
 
@@ -79,6 +82,15 @@ UnitedStack有云
 UCloud
 
 灵雀云  基于容器
+
+北森 SaaS
+http://www.beisen.com/
+
+纷享销客  SaaS 移动办公
+
+优维科技
+
+wilddog 野狗 IM SDK
 
 金山云
 http://www.ksyun.com/

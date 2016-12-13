@@ -2,50 +2,87 @@
 云服务类型收集
 
 青云qingcloud  IaaS，正在发布大数据相关的PaaS或者说行业相关的中间件自动编排
-
+qingcloud.com
 
 云英  iaas/paas
-www.cloudin.cn/
+www.cloudin.cn
 
-容联yuntongxun.com  音频api ，让web、桌面及移动应用可以方便地嵌入通话、会议、呼叫中心、短信/智能呼叫、移动IM
-逸创云客服kf5.com     在线客服
+容联  音频api ，让web、桌面及移动应用可以方便地嵌入通话、会议、呼叫中心、短信/智能呼叫、移动IM
+www.yuntongxun.com
+
+云客服_呼叫中心 
+www.7moor.com
+
+逸创云客服     在线客服SaaS
+www.kf5.com
 
 环信即时通讯云 易掌云峰 IM PAAS
 
 亲加通讯云 包含即时通讯云、语音通讯云、云客服
 
-云之讯ucpaas.com
+云之讯
+www.ucpaas.com
 
-APICloud 
+APICloud
+www.apicloud.com 
+
+云适配  企业对外（WEB SITE）和对内职能（OA）的移动化(H5)  办公浏览器enterplorer
+www.yunshipei.com
+
+天云融创 cmp云管理平台  skyform cmp/skyform ecp
+www.skyform.com.cn
+
+理才网 day HR，中小企业一站式HR SaaS。此外还有dayCRM,dayJOB,dayFI,舆情监控。收入主要是舆情监控和行业解决方案
+www.dayhr.com
+
+纷享销客  SaaS 移动办公
+www.fxiaoke.com
+
+销售易 SaaS CRM 属于2B的
+www.xiaoshouyi.com
+
+客脉，2C的，纷享销客的人出来做的
+www.kemaicrm.com
+
+百销帮 类似客脉
+www.baixiaobang.com
 
 bce.baidu.com
 bce.baidu.com/product/bae.html
 
-袋鼠云 dtstack.com  基于阿里云的运维
+袋鼠云   基于阿里云的运维
+www.dtstack.com
 
 网易云信  短信，视频，IM，音频能力
+www.netease.im
+www.sdk.cn
 
-七牛云 www.qiniu.com/  云存储 cdn加速，直播，视频api(中兴智能硬件)
+七牛云   云存储 cdn加速，直播，视频api(中兴智能硬件)
+www.qiniu.com
 
-南京机敏科技  桌面
+南京机敏科技  桌面云
+www.astute-tec.com
 
 北京轻元科技
+www.qingyuanos.com
 
-深圳企业云科技  云盘
+深圳启业云科技  云盘
+www.qycloud.com.cn
 
-daocloud道里云  sdn in paas docker
+道里云  sdn in paas docker
+www.daocloud.com
 
-数人云www.shurenyun.com/  感觉是推方案的，基于iaas
+数人云  感觉是推方案的，基于iaas
+www.shurenyun.com
 
-Csphere
+Csphere希云
+www.csphere.cn
 
-云雀
-
-UPYUN又拍云
-
-迅达云 www.speedycloud.cn/   iaas，cdn，视频直播
+迅达云 iaas，cdn，视频直播
+www.speedycloud.cn
 
 高伟达
+www.git.com.cn
 
 宇信
 
@@ -53,7 +90,8 @@ UPYUN又拍云
 
 时速云
 
-华为  www.hwclouds.com/  iaas，企业应用发布
+华为  iaas，企业应用发布
+www.hwclouds.com
 
 美团云
 
@@ -77,37 +115,82 @@ MadeiraCloud(麦德云)  亚马逊生态链企业
 
 华云数据
 
-UnitedStack有云
+有云
+www.ustack.com
 
 UCloud
+www.ucloud.cn
+
+easystack
+www.easystack.cn
 
 灵雀云  基于容器
+www.alauda.cn
 
 北森 SaaS
 http://www.beisen.com/
 
-纷享销客  SaaS 移动办公
-
 优维科技
 
-wilddog 野狗 IM SDK
+野狗实时通信云 wilddog IM SDK
+
+云智慧和天机数测  主动和被动式网站监控 
+
+海云捷讯  SaaS管理平台(Openstack部署工具)
+https://www.awcloud.com/
+
+中企通信  桌面云
+http://www.china-entercom.com/
+
+悠云 
+www.xabcloud.com 
+
+云极星创
+http://polex.com.cn
+
+云途腾 openstak私有云解决方案
+
+umcloud
+http://www.umcloud.com/
+
+中联易云  中联润通  openstak私有云解决方案
+http://www.ecloud.com.cn/
+
+九州云99Cloud
+http://99cloud.net/
+
+云知声  语音处理
+http://www.unisound.com/
+
+白山云  云链服务  CDN和存储
+http://www.baishancloud.com/
+
+北京永洪商智科技  大数据即服务
+http://www.yonghongtech.com/index.html
+
+数梦工场  阿里生态链  
+http://www.dtdream.com/
 
 金山云
 http://www.ksyun.com/
 http://ks3.ksyun.com/
 http://game.ksyun.com/
 弹性计算、存储、关系型数据库、负载均衡、内容分发网络、弹性IP、云监控、云安全
-计算			网络			数据库			存储与CDN	数据分析
-云服务器		负载均衡		关系型数据库	对象存储	托管Hadoop
-云物理主机	虚拟私有网络	云数据库Redis	云硬盘
-				弹性IP			NoSQL数据库		CDN
-				云解析
 
-云安全			游戏类服务		视频类服务		企业类服务
-防攻击中心	游戏云评测		云直播			金山企业云
-服务器安全	金山云广告		云点播			金山企业云盘
-漏洞扫描		游戏生态基地	云转码			超融合存储
-高级安全服务	运维自动化						金山私有云
+听云  应用性能管理APM
+www.tingyun.com
 
-
-
+云霁科技  iDC运维PaaS
+www.idcos.com
+
+又拍云  CDN 存储
+https://www.upyun.com/
+
+南京安贤科技   网络、虚拟化、云计算的安全解决方案，核心技术为网络威胁分析、网络内容识别及未知威胁的智能防护
+http://www.nubosh.com/
+
+优云 互联网运维
+https://www.uyun.cn
+
+艾拉物联  物联网云平台
+http://www.ayla.com.cn/

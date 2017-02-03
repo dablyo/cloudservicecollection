@@ -95,8 +95,6 @@ www.hwclouds.com
 
 美团云
 
-海云捷迅
-
 SAE 新浪应用引擎
 
 绿盟云 SAAS
@@ -119,7 +117,7 @@ MadeiraCloud(麦德云)  亚马逊生态链企业
 www.ustack.com
 
 UCloud
-www.ucloud.cn
+www.ucloud.cn  投资数人云
 
 easystack
 www.easystack.cn
@@ -136,7 +134,7 @@ http://www.beisen.com/
 
 云智慧和天机数测  主动和被动式网站监控 
 
-海云捷讯  SaaS管理平台(Openstack部署工具)
+海云捷讯  SaaS管理平台(Openstack部署工具，私有云创业公司) 腾讯云投资
 https://www.awcloud.com/
 
 中企通信  桌面云
@@ -180,6 +178,8 @@ http://game.ksyun.com/
 听云  应用性能管理APM
 www.tingyun.com
 
+OneAPM
+
 云霁科技  iDC运维PaaS
 www.idcos.com
 
@@ -192,5 +192,21 @@ http://www.nubosh.com/
 优云 互联网运维
 https://www.uyun.cn
 
+简道云  工作流表单和报表SaaS  南京帆软
+www.jiandaoyun.com
+
 艾拉物联  物联网云平台
 http://www.ayla.com.cn/
+
+乐橙
+
+zstack--阿里云投资
+
+米家米仓，云智易，机智云，智云奇点，风向标
+科大讯飞，云知声，思必驰，迪韵科技
+
+融云
+易验证
+jpush
+极验
+face++

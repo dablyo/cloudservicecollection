@@ -1,14 +1,17 @@
 # cloudservicecollection
 云服务类型收集
 
-青云qingcloud  IaaS，正在发布大数据相关的PaaS或者说行业相关的中间件自动编排
-qingcloud.com
+青云qingcloud  IaaS，主机存储CDN等，正在发布大数据相关的PaaS或者说行业相关的中间件自动编排
+qingcloud.com 
 
 云英  iaas/paas
 www.cloudin.cn
+IaaS提供商，云主机云硬盘，以及CDN。15年创办16年prea融资
 
-容联  音频api ，让web、桌面及移动应用可以方便地嵌入通话、会议、呼叫中心、短信/智能呼叫、移动IM
+容联  
 www.yuntongxun.com
+音视频api ，让web、桌面及移动应用可以方便地嵌入通话、会议、呼叫中心、短信/智能呼叫、移动IM
+语音通话，呼入，多方会议，语音/短信验证码，流量（兑换，充值，营销等），IM（IM私有云，包含消息音频视频点对点，群组，语音留言，音视频会议，红包）
 
 云客服_呼叫中心 
 www.7moor.com

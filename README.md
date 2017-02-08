@@ -99,6 +99,7 @@ www.qycloud.com.cn
 袋鼠云   基于阿里云的运维
 www.dtstack.com
 提供日志分析和数据库管理的SaaS，以及技术服务
+
 ------------------------------------------------------
 七牛云   云存储 cdn加速，直播，视频api
 www.qiniu.com
@@ -121,7 +122,6 @@ www.astute-tec.com
 北京轻元科技
 www.qingyuanos.com
 openstack私有云及代维
-
 
 道里云  
 www.daocloud.com
@@ -154,15 +154,17 @@ SAE 新浪应用引擎
 
 绿盟云 SAAS
 
-够快科技 够快云
+够快科技
+www.gokuai.com
+云储存，企业云盘，文件管理
 
-云杉网络
-
-鹏云网络  存储
+南京鹏云网络  存储
+www.pengyunnetwork.com
 
 Google GAE
 
 启创卓越
+www.primecloud.cn
 
 MadeiraCloud(麦德云)  亚马逊生态链企业
 

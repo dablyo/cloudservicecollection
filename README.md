@@ -1,12 +1,14 @@
 # cloudservicecollection
 云服务类型收集
+--------------
 
 青云qingcloud  IaaS，主机存储CDN等，正在发布大数据相关的PaaS或者说行业相关的中间件自动编排
-qingcloud.com 
+www.qingcloud.com 
 
 云英
 www.cloudin.cn
 IaaS提供商，云主机云硬盘，以及CDN。15年创办16年prea融资
+
 ------------------------------------------------------------------
 容联  
 www.yuntongxun.com
@@ -83,7 +85,6 @@ www.fxiaoke.com
 销售易 属于2B的SaaS CRM,融合社交因素（企业微博/微信），有移动OA功能（签到，日程等）
 www.xiaoshouyi.com
 官网上看到中兴力维在用
-销售易友好链接上有永洪科技（做大数据分析和商业智能的）的链接
 
 客脉，2C的，纷享销客的人出来做的
 www.kemaicrm.com
@@ -219,6 +220,7 @@ http://www.baishancloud.com/
 
 北京永洪商智科技  大数据即服务
 http://www.yonghongtech.com/index.html
+在销售易友好链接上出现
 
 数梦工场  阿里生态链  
 http://www.dtdream.com/

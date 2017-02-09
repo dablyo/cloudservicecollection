@@ -1,5 +1,4 @@
-# cloudservicecollection
-云服务类型收集
+# 云服务类型收集
 --------------
 
 青云qingcloud  IaaS，主机存储CDN等，正在发布大数据相关的PaaS或者说行业相关的中间件自动编排
@@ -124,14 +123,15 @@ www.qingyuanos.com
 openstack私有云及代维
 
 道里云  
-www.daocloud.com
-基于容器，sdn in paas docker
+www.daolicloud.com
+基于容器，sdn in paas docker，主打将SDN引入容器网络
 
 数人云  感觉是推方案的，基于iaas
 www.shurenyun.com
 
 Csphere希云
 www.csphere.cn
+容器私有云
 
 迅达云 iaas，cdn，视频直播
 www.speedycloud.cn

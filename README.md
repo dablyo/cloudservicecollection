@@ -1,5 +1,4 @@
 # 云服务类型收集
---------------
 
 青云qingcloud  IaaS，主机存储CDN等，正在发布大数据相关的PaaS或者说行业相关的中间件自动编排
 www.qingcloud.com 
@@ -65,6 +64,10 @@ www.skyform.com.cn
 www.netease.im
 www.sdk.cn
 
+图谱科技
+www.tuputech.com
+基于深度学习的图像识别技术多维度解读图片和视频，智能审核/直播审核（涉黄时政暴恐），个性化推荐（广告），文字识别（上传身份证验证的数据采集），政治人物和敏感事件识别
+
 baidu
 包含IaaS服务，PaaS服务和其他增值业务
 产品介绍参见：bce.baidu.com/product/bae.html
@@ -102,7 +105,7 @@ www.dtstack.com
 ------------------------------------------------------
 七牛云   云存储 cdn加速，直播，视频api
 www.qiniu.com
-官网说中兴智能硬件是其用户
+官网说中兴智能硬件是其用户，图谱科技说七牛是其用户
 
 亿方云  云存储 
 www.fangcloud.com
@@ -175,6 +178,7 @@ www.ustack.com
 
 UCloud
 www.ucloud.cn  投资数人云
+是图谱科技的用户
 
 easystack
 www.easystack.cn

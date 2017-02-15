@@ -88,6 +88,10 @@ www.fxiaoke.com
 www.xiaoshouyi.com
 官网上看到中兴力维在用
 
+北京永洪商智科技  大数据即服务
+http://www.yonghongtech.com/index.html
+在销售易友好链接上出现
+
 客脉，2C的，纷享销客的人出来做的
 www.kemaicrm.com
 
@@ -105,7 +109,9 @@ www.dtstack.com
 ------------------------------------------------------
 七牛云   云存储 cdn加速，直播，视频api
 www.qiniu.com
-官网说中兴智能硬件是其用户，图谱科技说七牛是其用户
+官网说中兴智能硬件是其用户，图谱科技说七牛是其用户  
+李敏在胡侃数据微信群中转发的2016大数据100强中，七牛被归类到大数据平台中，  
+七牛属于面向存储的公有云，跟大数据的关系实在勉强。另外的一个上海云角是做企业业务向云迁移的技术服务，应该也不搭。
 
 亿方云  云存储 
 www.fangcloud.com
@@ -119,7 +125,7 @@ www.oatos.com
 -------------------------------------------------------
 南京机敏科技  主打桌面云，特点是桌面云和私有云统一管理，私有云是openstack方案
 www.astute-tec.com
-就是公司里现在在用的这种，RDP那一套。是中兴的出去拉投资搞的。
+就是公司里现在在用的这种，RDP那一套。应该是中兴的出去拉投资搞的。
 
 北京轻元科技
 www.qingyuanos.com
@@ -223,10 +229,6 @@ http://www.unisound.com/
 
 白山云  云链服务  CDN和存储
 http://www.baishancloud.com/
-
-北京永洪商智科技  大数据即服务
-http://www.yonghongtech.com/index.html
-在销售易友好链接上出现
 
 数梦工场  阿里生态链  
 http://www.dtdream.com/

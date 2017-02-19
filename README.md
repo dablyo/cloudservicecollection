@@ -30,7 +30,7 @@ www.kf5.com
 
 环信即时通讯云 易掌云峰 IM PAAS
 http://www.easemob.com/
-PaaS，IM相关的API，文字/音视频，群发，红包等
+PaaS，IM相关的API，文字/音视频，群发，红包等ls
 SaaS，移动客服
 
 亲加通讯云 包含即时通讯云、语音通讯云、云客服

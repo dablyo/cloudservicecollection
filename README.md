@@ -186,7 +186,7 @@ MadeiraCloud(麦德云)  亚马逊生态链企业
 www.ustack.com
 
 UCloud
-www.ucloud.cn  投资数人云
+www.ucloud.cn  CDN 投资数人云
 是图谱科技的用户
 
 easystack
@@ -240,7 +240,7 @@ http://www.dtdream.com/
 http://www.ksyun.com/
 http://ks3.ksyun.com/
 http://game.ksyun.com/
-弹性计算、存储、关系型数据库、负载均衡、内容分发网络、弹性IP、云监控、云安全
+弹性计算、存储、关系型数据库、负载均衡、内容分发网络、弹性IP、云监控、云安全 CDN
 
 听云  应用性能管理APM
 www.tingyun.com
@@ -266,6 +266,36 @@ www.jiandaoyun.com
 http://www.ayla.com.cn/
 
 乐橙
+
+网宿科技
+CDN
+
+世纪互联/快网
+CDN
+
+云熵
+CDN
+
+云帆加速
+CDN
+
+供销大数据
+CDN
+
+沙塔
+CDN
+
+VeryCDN云端网络
+CDN
+
+高升控股
+CDN
+
+蓝讯
+CDN
+
+网心科技（迅雷）
+CDN
 
 zstack--阿里云投资
 

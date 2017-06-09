@@ -71,6 +71,12 @@ www.tuputech.com
 依图科技
 肺叶节检测，安防/人像识别，金融/招商银行刷脸取款
 
+旷视科技
+人脸识别在安防
+
+海云数据
+唇语识别提升英文识别准确率http://dev.zte.com.cn/topic/#/32300
+
 baidu
 包含IaaS服务，PaaS服务和其他增值业务
 产品介绍参见：bce.baidu.com/product/bae.html

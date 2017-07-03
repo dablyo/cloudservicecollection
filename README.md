@@ -276,6 +276,12 @@ http://www.ayla.com.cn/
 网宿科技
 CDN
 
+同兴万点
+CDN
+
+福建光通互联
+CDN
+
 世纪互联/快网
 CDN
 

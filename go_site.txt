@@ -1,0 +1,20 @@
+https://sdk.cn/news/7707
+Go+Vue.js快速搭建Web应用
+
+https://www.zhihu.com/question/66727249
+Go中web框架比标准库有什么优势？
+
+https://www.zhihu.com/question/29065809
+Go 语言有哪些值得推荐的开源 Web 框架
+
+https://www.zhihu.com/question/30649593
+Golang 适合做 Web 开发吗？--介绍了很多的go资料和书籍
+
+https://www.zhihu.com/question/30461290
+系统学习GO，推荐几本靠谱的书?
+
+http://www.flysnow.org/2016/12/27/golang-hot-project-in-github.html
+GitHub上优秀的Go开源项目
+
+https://yq.aliyun.com/articles/475545?spm=a2c4e.11155472.0.0.27525618LpHzvq
+深入理解nginx反向代理,验证nginx的负荷分担过程

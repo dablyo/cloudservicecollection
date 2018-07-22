@@ -18,3 +18,8 @@ GitHub上优秀的Go开源项目
 
 https://yq.aliyun.com/articles/475545?spm=a2c4e.11155472.0.0.27525618LpHzvq
 深入理解nginx反向代理,验证nginx的负荷分担过程
+
+https://www.golangtc.com/download/package
+git方式下载，在安装golang包
+
+iiii
